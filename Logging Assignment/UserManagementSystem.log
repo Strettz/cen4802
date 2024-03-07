@@ -1,0 +1,1146 @@
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User0
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User0
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User0
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User0
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User0
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User0
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User0
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User0
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User1
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User1
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User2
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User2
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User3
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User3
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User4
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User4
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User5
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User5
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User5
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User5
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User5
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User5
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User6
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User6
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User7
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User7
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User8
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User8
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User9
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User9
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User10
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User10
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User10
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User10
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User10
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User10
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User10
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User10
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User11
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User11
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User12
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User12
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User13
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User13
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User14
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User14
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User15
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User15
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User15
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User15
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User15
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User15
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User16
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User16
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User17
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User17
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User18
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User18
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User19
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User19
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User20
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User20
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User20
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User20
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User20
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User20
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User20
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User20
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User21
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User21
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User22
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User22
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User23
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User23
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User24
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User24
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User25
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User25
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User25
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User25
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User25
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User25
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User26
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User26
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User27
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User27
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User28
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User28
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User29
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User29
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User30
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User30
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User30
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User30
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User30
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User30
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User30
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User30
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User31
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User31
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User32
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User32
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User33
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User33
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User34
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User34
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User35
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User35
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User35
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User35
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User35
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User35
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User36
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User36
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User37
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User37
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User38
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User38
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User39
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User39
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User40
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User40
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User40
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User40
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User40
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User40
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User40
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User40
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User41
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User41
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User42
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User42
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User43
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User43
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User44
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User44
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User45
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User45
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User45
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User45
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+INFO: Deleting user: User45
+Mar 07, 2024 10:36:20 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User45
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User46
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User46
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User47
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User47
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User48
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User48
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+INFO: Adding user: User49
+Mar 07, 2024 10:36:20 AM UserManagementSystem addUser
+FINE: User added successfully: User49
+Mar 07, 2024 10:36:20 AM UserManagementSystem listUsers
+INFO: Listing all users
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User1
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User2
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User3
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User4
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User6
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User7
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User8
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User9
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User11
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User12
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User13
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User14
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User16
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User17
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User18
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User19
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User21
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User22
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User23
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User24
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User26
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User27
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User28
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User29
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User31
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User32
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User33
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User34
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User36
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User37
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User38
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User39
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User41
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User42
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User43
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User44
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User46
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User47
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User48
+Mar 07, 2024 10:36:20 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User49
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User0
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User0
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User0
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User0
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User0
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User0
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User0
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User0
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User1
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User1
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User2
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User2
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User3
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User3
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User4
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User4
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User5
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User5
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User5
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User5
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User5
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User5
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User6
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User6
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User7
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User7
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User8
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User8
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User9
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User9
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User10
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User10
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User10
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User10
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User10
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User10
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User10
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User10
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User11
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User11
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User12
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User12
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User13
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User13
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User14
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User14
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User15
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User15
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User15
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User15
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User15
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User15
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User16
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User16
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User17
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User17
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User18
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User18
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User19
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User19
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User20
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User20
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User20
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User20
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User20
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User20
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User20
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User20
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User21
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User21
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User22
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User22
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User23
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User23
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User24
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User24
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User25
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User25
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User25
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User25
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User25
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User25
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User26
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User26
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User27
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User27
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User28
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User28
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User29
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User29
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User30
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User30
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User30
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User30
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User30
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User30
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User30
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User30
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User31
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User31
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User32
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User32
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User33
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User33
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User34
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User34
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User35
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User35
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User35
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User35
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User35
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User35
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User36
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User36
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User37
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User37
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User38
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User38
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User39
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User39
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User40
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User40
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User40
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User40
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User40
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User40
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User40
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User40
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User41
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User41
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User42
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User42
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User43
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User43
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User44
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User44
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User45
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User45
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User45
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User45
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+INFO: Deleting user: User45
+Mar 07, 2024 10:38:42 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User45
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User46
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User46
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User47
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User47
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User48
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User48
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+INFO: Adding user: User49
+Mar 07, 2024 10:38:42 AM UserManagementSystem addUser
+FINE: User added successfully: User49
+Mar 07, 2024 10:38:42 AM UserManagementSystem listUsers
+INFO: Listing all users
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User1
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User2
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User3
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User4
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User6
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User7
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User8
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User9
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User11
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User12
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User13
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User14
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User16
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User17
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User18
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User19
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User21
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User22
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User23
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User24
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User26
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User27
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User28
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User29
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User31
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User32
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User33
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User34
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User36
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User37
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User38
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User39
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User41
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User42
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User43
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User44
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User46
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User47
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User48
+Mar 07, 2024 10:38:42 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User49
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User0
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User0
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User0
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User0
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User0
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User0
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User0
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User0
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User1
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User1
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User2
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User2
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User3
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User3
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User4
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User4
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User5
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User5
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User5
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User5
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User5
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User5
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User6
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User6
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User7
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User7
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User8
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User8
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User9
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User9
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User10
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User10
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User10
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User10
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User10
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User10
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User10
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User10
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User11
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User11
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User12
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User12
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User13
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User13
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User14
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User14
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User15
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User15
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User15
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User15
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User15
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User15
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User16
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User16
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User17
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User17
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User18
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User18
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User19
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User19
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User20
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User20
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User20
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User20
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User20
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User20
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User20
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User20
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User21
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User21
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User22
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User22
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User23
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User23
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User24
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User24
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User25
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User25
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User25
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User25
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User25
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User25
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User26
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User26
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User27
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User27
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User28
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User28
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User29
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User29
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User30
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User30
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User30
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User30
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User30
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User30
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User30
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User30
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User31
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User31
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User32
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User32
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User33
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User33
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User34
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User34
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User35
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User35
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User35
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User35
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User35
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User35
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User36
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User36
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User37
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User37
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User38
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User38
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User39
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User39
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User40
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User40
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User40
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+WARNING: Attempted to add duplicate user: User40
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User40
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User40
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User40
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User40
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User41
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User41
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User42
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User42
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User43
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User43
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User44
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User44
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User45
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User45
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User45
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+FINE: User deleted successfully: User45
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+INFO: Deleting user: User45
+Mar 07, 2024 11:31:48 AM UserManagementSystem deleteUser
+SEVERE: Attempted to delete non-existent user: User45
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User46
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User46
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User47
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User47
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User48
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User48
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+INFO: Adding user: User49
+Mar 07, 2024 11:31:48 AM UserManagementSystem addUser
+FINE: User added successfully: User49
+Mar 07, 2024 11:31:48 AM UserManagementSystem listUsers
+INFO: Listing all users
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User1
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User2
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User3
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User4
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User6
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User7
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User8
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User9
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User11
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User12
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User13
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User14
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User16
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User17
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User18
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User19
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User21
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User22
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User23
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User24
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User26
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User27
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User28
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User29
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User31
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User32
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User33
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User34
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User36
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User37
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User38
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User39
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User41
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User42
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User43
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User44
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User46
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User47
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User48
+Mar 07, 2024 11:31:48 AM UserManagementSystem lambda$listUsers$0
+FINE: User: User49
